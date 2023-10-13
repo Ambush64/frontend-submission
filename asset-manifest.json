@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend-submission/static/css/main.98ec47ca.css",
+    "main.js": "/frontend-submission/static/js/main.7587fbdc.js",
+    "index.html": "/frontend-submission/index.html",
+    "main.98ec47ca.css.map": "/frontend-submission/static/css/main.98ec47ca.css.map",
+    "main.7587fbdc.js.map": "/frontend-submission/static/js/main.7587fbdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ec47ca.css",
+    "static/js/main.7587fbdc.js"
+  ]
+}
